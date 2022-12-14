@@ -52,5 +52,8 @@
 *.log
 *.tlog
 
+# Precompiled Shaders
+*.bin
+
 # JSON Visual Logger files
 project/*.json
